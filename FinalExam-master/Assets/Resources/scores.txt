@@ -1,0 +1,10 @@
+Ashley, 10
+Ashley, 5
+Ashley,3
+Amber,2
+Amber,13
+Amber,16
+Lisa,25
+Ashley,18
+Ashley,12
+Lisa,10
